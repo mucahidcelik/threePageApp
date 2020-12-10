@@ -6,5 +6,3 @@ You can create people and list them. You can delete users from list.
 * Java 1.8
 * Thymeleaf
 * MySQL
-## Deployed App
-https://gentle-taiga-18985.herokuapp.com/
